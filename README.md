@@ -1,4 +1,4 @@
-# Papers about efficient CoT from NeurIPS 2025, ICML 2025, ICLR 2026
+# Papers about efficient CoT from NeurIPS 2025, ICML 2025, ICLR 2026 (Regularly updated)
 
 ## Table of contents
 
