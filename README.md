@@ -2,8 +2,6 @@
 
 ## Table of contents
 
-| Title | Code | Conference | brief intro |
-
 | Title | Code | Conference | Brief Intro |
 | :---- | :--: | :--------: | :---------- |
 | [Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models](https://arxiv.org/pdf/2412.21187) | [Code](https://github.com/galaxyChen/overthinking) | ICML 2025 | / |
