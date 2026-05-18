@@ -9,7 +9,7 @@
 | Title | Code | Conference | brief intro |
 
 | Title | Code | Conference | brief intro |
-| :---- | :--- | :--------: | :---------- |
+| :---: | :--: | :--------: | :---------- |
 | [Do NOT Think That Much for 2+3=? On the Overthinking of Long Reasoning Models](https://arxiv.org/pdf/2412.21187) | https://github.com/galaxyChen/overthinking | ICML 2025 | / |
 | [PENCIL: Long Thoughts with Short Memory](https://arxiv.org/abs/2503.14337) | https://github.com/chr26195/PENCIL | ICML 2025 | / |
 | [Rethinking Chain-of-Thought from the Perspective of Self-Training](https://arxiv.org/pdf/2412.10827) | https://github.com/zongqianwu/ST-COT | ICML 2025 | / |
